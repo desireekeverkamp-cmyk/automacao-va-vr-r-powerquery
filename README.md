@@ -3,7 +3,7 @@
 
 `R (Tidyverse)` • `Microsoft Excel` • `Power Query (ETL)` • `People Analytics`
 
-> **Pipeline reprodutível de dados e Business Intelligence para eliminação de erros operacionais, rastreabilidade de regras trabalhistas e apoio à tomada de decisão na gestão de benefícios corporativos.**
+> **Pipeline reprodutível de dados e Business Intelligence para eliminação de erros operacionais, rastreabilidade e conformidade com as regras trabalhistas e apoio à tomada de decisão na gestão de benefícios corporativos.**
 
 ---
 
