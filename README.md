@@ -1,0 +1,1 @@
+# automacao-va-vr-r-powerquery
