@@ -79,8 +79,27 @@ O painel permite filtrar instantaneamente os indicadores por departamento e faix
 4. Abra o arquivo `Dashboard_Automacao_VA.xlsx` e clique em **Dados > Atualizar Tudo** para refletir os novos cálculos via Power Query.
 
 ---
+## 🌍 Filosofia e Conhecimento Aberto
+
+Este projeto foi concebido sob os princípios de **Ciência Aberta, Software Livre e Liberdade do Conhecimento (*Knowledge Commons*)**. 
+
+A escolha pela linguagem **R** e o uso de **dados sintéticos** garantem que toda a metodologia, as equações matemáticas e o fluxo de automação sejam 100% transparentes, auditáveis e livremente reutilizáveis por estudantes, pesquisadores e profissionais de RH — sem dependência de caixas-pretas proprietárias ou exposição de dados sensíveis.
+
+---
+## 🌍 Ciência Aberta e Liberdade do Conhecimento
+
+Este repositório integra um portfólio técnico aberto concebido sob os princípios de **Ciência Aberta, Software Livre e Liberdade do Conhecimento (*Knowledge Commons*)**. 
+
+A escolha pela linguagem **R** e o uso de **dados sintéticos** garantem que toda a metodologia, as equações matemáticas e o fluxo de automação sejam 100% transparentes, auditáveis e livremente reutilizáveis por estudantes, pesquisadores e organizações — sem dependência de caixas-pretas proprietárias ou exposição de dados sensíveis (LGPD).
+
+---
 
 ## 👩‍💻 Autoria
 
-Desenvolvido como projeto de portfólio aplicado à **Análise de Dados, Automação de Processos e People Analytics**.  
-📫 *Conecte-se comigo no [LinkedIn](https://linkedin.com) para trocar ideias sobre dados e eficiência operacional!*
+**Desiree Keverkamp**  
+Pesquisadora e Consultora em **Análise de Dados, Automação de Processos e Inteligência Operacional**.  
+* Experiência comprovada em diagnóstico organizacional, mapeamento de processos e extensão corporativa (PEIEX / ApexBrasil / FURB).
+* Especialista em modelagem estatística e programação em **R**, **Power BI**, **Excel Avançado** e **QGIS**.
+* Portfólio técnico guiado pelos princípios de ciência aberta, software livre e liberdade do conhecimento.
+
+🔗 **Perfil Profissional:** [://linkedin.com](https://www.://linkedin.com/)
