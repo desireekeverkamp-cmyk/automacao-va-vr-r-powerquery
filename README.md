@@ -1,9 +1,7 @@
 # automacao-va-vr-r-powerquery
 # 📊 Automação do Fechamento de VA/VR e Inteligência de RH (R + Power Query + Excel)
 
-![R](https://shields.io)
-![Excel](https://shields.io)
-![Power Query](https://shields.io)
+`R (Tidyverse)` • `Microsoft Excel` • `Power Query (ETL)` • `People Analytics`
 
 > **Pipeline reprodutível de dados e Business Intelligence para eliminação de erros operacionais, rastreabilidade de regras trabalhistas e apoio à tomada de decisão na gestão de benefícios corporativos.**
 
